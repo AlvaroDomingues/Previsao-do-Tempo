@@ -1,0 +1,43 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.search {
+  text-align: center;
+  
+  background: linear-gradient(purple, darkblue);
+  height: 200px;
+}
+.pesq{
+  margin-top: 110px;
+  padding: 5px;
+  padding-left: 10px;
+  width: 80%;
+  border-radius: 5px;
+  height: 35px;
+}
+
+h2{
+  padding: 10px;
+  font-size: 28px;
+}
+
+.result{
+  text-align: center;
+  padding: 10px;
+}
+
+.result p{
+  padding: 20px;
+  border-bottom: 1px dashed #ccc;
+  font-weight: bold;
+}
+
+.submit{
+  margin-left: 20px;
+  width: 80px;
+  height: 30px;
+  border-radius: 5px;
+  
+}
